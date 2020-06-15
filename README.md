@@ -1,0 +1,1 @@
+This is my Etch-a-Sketch project. I learned a lot during the process, and it was fun doing it. I created two buttons; one to reset the grid, and one to create a new grid size. 
